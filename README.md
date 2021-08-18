@@ -1,4 +1,4 @@
-[1] The Titanic Dataset are the Static datasets, which are in the form of Comma Separated Values(.csv) as shown in figure below.
+[1] The Titanic Dataset are the Static datasets, which are in the form of Comma Separated Values(.csv).
 
 [2] For Training the Titanic Dataset,
 
